@@ -1,6 +1,12 @@
 
 # URL Normalizer
 
+
+<p align="center">
+    <a href="https://packagist.org/packages/edulazaro/urlnormalizer"><img src="https://img.shields.io/packagist/dt/edulazaro/urlnormalizer" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/edulazaro/urlnormalizer"><img src="https://img.shields.io/packagist/v/edulazaro/urlnormalizer" alt="Latest Stable Version"></a>
+</p>
+
 ## Introduction
 
 URL nnormalizer allows to normalize a URL. A normalized URL refers to the format of a URL that has been standardized according to a set of rules. The purpose of URL normalization (or URL canonicalization) is to transform a URL into a normalized or canonical form. This way, URLs that are essentially identical but represented differently are considered equal by web servers or applications.
