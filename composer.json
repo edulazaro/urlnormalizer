@@ -1,0 +1,23 @@
+{
+    "name": "edulazaro/urlnormalizer",
+    "description": "A package to normalize URLs \u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dand filter URLs",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edulazaro\\URLNormalizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edu Lazaro",
+            "email": "edu@kenodo.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "test": "phpunit tests"
+    }
+}
